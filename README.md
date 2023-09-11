@@ -7,7 +7,7 @@ Hello🐝 I am usually called Shafna an undergraduate student majoring in Geophy
 
 <details> 
   <summary> <h1 font size="2"> 🦋 More about me</summary>  
-  - 💼 I'm a freelancer <br>
+  - 💼 I'm a hardworker <br>
   - 🏅 All my experience are available at (www.linkedin.com/in/shafna-puspita-prastya) <br>
   - 💌 You may contact me through (shafnapuspitaprastya@mail.ugm.ac.id) <br>
 </details>
