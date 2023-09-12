@@ -1,5 +1,5 @@
 <div align="center" width="500">
-<img src="https://im4.ezgif.com/tmp/ezgif-4-46984fc5c2.gif" width="600">
+<img src="https://im.ezgif.com/tmp/ezgif-1-9eb87741ac.gif" width="600">
 </div>
 <p align="center">
 Hello🐝 I am usually called Shafna, an undergraduate student majoring in Geophysics at Gadjah Mada University. I graduated from SMA N 1 Temanggung. I'm a freelancer model and personal assistant wedding organizer. I have interests in modeling, public speaking, and beauty community💅
