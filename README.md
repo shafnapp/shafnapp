@@ -9,7 +9,7 @@ Hello🐝 I am usually called Shafna, an undergraduate student majoring in Geoph
   <summary> <h1 font size="2"> 🦋 More about me</summary>  
   - 💼 I'm a hardworker <br>
   - 🏅 All my experience are available at (www.linkedin.com/in/shafna-puspita-prastya) <br>
-  - 💌 You may contact me through (shafnapuspitaprastya@mail.ugm.ac.id) <br>
+  - 💌 You can contact me through (shafnapuspitaprastya@mail.ugm.ac.id) <br>
 </details>
 
 <div align=center> <img src="https://komarev.com/ghpvc/?username=shafnapp&style=flat-square&color=000000" alt="dystaSatria" ></div>
